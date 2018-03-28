@@ -1,0 +1,4 @@
+﻿  MyOpenGLTest.cpp
+e:\othercode\opengltest\openglt5\openglt5\myopengltest.cpp(34): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+e:\othercode\opengltest\openglt5\openglt5\myopengltest.cpp(34): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  OpenGLT5.vcxproj -> E:\othercode\OpenGLTest\OpenGLT5\Debug\OpenGLT5.exe
